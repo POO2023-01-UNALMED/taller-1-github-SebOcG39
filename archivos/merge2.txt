@@ -1,3 +1,8 @@
+
 Sebastián Ocampo Galvis
 Edad: 19 años
 Mis aspiraciones con la materia son adquirir un gran conocimiento sobre la programación, lograr un mayor dominio sobre python y java y con esto moldearme como un futuro ingeniero de sistemas.
+
+La carpeta ahora si se muestra. Al parecer era porque, al estar vacía, no se cargaba.
+
+Es importante tener cuidado ya que se pueden generar errores y confusiones, dificultando el proceso de edición del codigo
