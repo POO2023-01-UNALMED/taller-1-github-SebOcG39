@@ -1,1 +1,0 @@
-La carpeta ahora si se muestra. Al parecer era porque, al estar vacía, no se cargaba.
